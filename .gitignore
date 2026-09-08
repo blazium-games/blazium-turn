@@ -1,0 +1,6 @@
+/turn
+/turn.exe
+*.exe
+.idea/
+.vs/
+tmp/
